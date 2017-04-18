@@ -1,4 +1,4 @@
-
+// ver comentario 
 package maquinadepga;
 import java.util.Scanner;
 
